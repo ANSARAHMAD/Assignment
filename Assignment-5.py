@@ -20,3 +20,5 @@ primt ("Hello World")
 print "Hello World"
 
 I hate you python
+
+I come in peace, please take me to your leader
